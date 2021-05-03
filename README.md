@@ -1,6 +1,6 @@
 # XC_FINAL_PROJECT_CSCI2021
 Hello! Welcome to a single player adaptation for Among Us!
-In order to begin the game. Make sure you have a terminal open in your ide and that you are accesing the proper folder. (It should be /final_project)
+In order to begin the game. Make sure you have a terminal open in your ide and that you are accesing the proper folder.(Should be the project home directory)
 Once you have accessed the correct folder and you have your input terminal open, to play the game you should type in "python3 final.py". 
 Once the file is accessed, there will be a brief backgorund for the game displayed and then a line at the end that prompts you to enter "Start" in order to start the game. Once "Start" is entered the game will begin.
 When there is a user input required there will be options that will be printed that you are able to chose at that time based on your location. You can play until have won the game by succesfully putting the ship back on track to deliver the data to Earth. You can also adventure down the multiple different paths that lead you to come to a different outcomes of action or results
