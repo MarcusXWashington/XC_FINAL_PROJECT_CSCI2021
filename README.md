@@ -14,3 +14,4 @@ To start game after activating the file: Start
 To win: The player must launch the Impostor and engage the autopilot systems to Earth.
 To run the test winning test case: python3 final.py < test.py
 To run the alternate test case: python3 final.py < funtests.py
+ 
