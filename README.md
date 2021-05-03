@@ -6,7 +6,7 @@ Once the file is accessed, there will be a brief backgorund for the game display
 When there is a user input required there will be options that will be printed that you are able to chose at that time based on your location. You can play until have won the game by succesfully putting the ship back on track to deliver the data to Earth. You can also adventure down the multiple different paths that lead you to come to a different outcomes of action or results
 
 
-In order to activate the test cases for the 'final.py' the terminal must not be running any files. The line 'user@mimir: ~/csci_100_howard_university_fall_2020/final_project >' should be requesting an input from you at which point you would enter "python3 final.py < test.py" in order to test the game from the Start until the game is won. You could also enter "python3 final.py < funtests.py" in order to test the restrictions set by not having all the required components to complete a task.
+In order to activate the test cases for the 'final.py' the terminal must not be running any files. The line 'user@mimir: ~/csci_100_howard_university_fall_2020/final_project >' should be requesting an input from you at which point you would enter "python3 final.py < test.py" in order to play the game from the Start until the game is won. You could also enter "python3 final.py < funtests.py" in order to test the restrictions set by not having all the required components to complete a task.
 
 TLDR:
 Input the activate file: python3 final.py
